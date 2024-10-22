@@ -1,0 +1,3 @@
+Hey hi............
+//git status is to  check the status
+all the untracked files will be there in working area
